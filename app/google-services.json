@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "401462939040",
+    "firebase_url": "https://sneakrun-eb527.firebaseio.com",
+    "project_id": "sneakrun-eb527",
+    "storage_bucket": "sneakrun-eb527.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401462939040:android:a42b103d0f6958a2",
+        "android_client_info": {
+          "package_name": "com.desisfirmansyah.sneakrunsc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401462939040-mdopcrvn0lslinumrccn4o5f64qi0v5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.desisfirmansyah.sneakrunsc",
+            "certificate_hash": "ea264d129fbc01126b22e9615fe51fac6c6e25be"
+          }
+        },
+        {
+          "client_id": "401462939040-3v7rkcekka6boa0lqvqcsgp40t8v9saa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-k8NWlTBOwtLqarX7zfzng-b7DNDbMVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401462939040-3v7rkcekka6boa0lqvqcsgp40t8v9saa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
